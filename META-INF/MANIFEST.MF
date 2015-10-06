@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ImplTest
+Bundle-SymbolicName: ImplTest
+Bundle-Version: 1.0.0.qualifier
+Fragment-Host: impl
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Import-Package: org.osgi.framework;version="1.3.0"
+Require-Bundle: org.junit;bundle-version="4.11.0"
